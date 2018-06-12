@@ -16,8 +16,8 @@ A self-learning plan for a junior java programmer
 12. maven; pom, dependency
 
 ## tech knowledge repos
--. [CyC2018/Interview-Notebook][2]
--. [https://github.com/linw7/Skill-Tree][3]
+- [CyC2018/Interview-Notebook][2]
+- [linw7/Skill-Tree][3]
 
 [1]: https://www.zhihu.com/question/38880482/answer/174034793
 [2]: https://github.com/CyC2018/Interview-Notebook
