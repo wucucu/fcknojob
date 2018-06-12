@@ -1,7 +1,7 @@
 # fcknojob
 A self-learning plan for a junior java programmer
 
-## some tips from [a zhihu anwser][1]
+## tips from [a zhihu anwser][1]
 1. J2EE Server; be able to set up tomcat + Nginx/httpd; know about the setting files
 2. web framework; be able to use spring mvc; know about ssm/ssh
 3. database; be able to do mysql CRUD; know about t-sql
@@ -15,4 +15,10 @@ A self-learning plan for a junior java programmer
 11. devops basics; git, svn
 12. maven; pom, dependency
 
+## tech knowledge repos
+-. [CyC2018/Interview-Notebook][2]
+-. [https://github.com/linw7/Skill-Tree][3]
+
 [1]: https://www.zhihu.com/question/38880482/answer/174034793
+[2]: https://github.com/CyC2018/Interview-Notebook
+[3]: https://github.com/linw7/Skill-Tree
