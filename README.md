@@ -17,6 +17,8 @@ A self-learning plan for a junior java programmer
 
 ## tech knowledge repos
 - [CyC2018/Interview-Notebook][2]
+  - 操作系统 (01)
+  - 计算机网络 (01)
 - [linw7/Skill-Tree][3]
 
 [1]: https://www.zhihu.com/question/38880482/answer/174034793
